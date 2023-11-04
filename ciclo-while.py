@@ -29,3 +29,5 @@ while adivina != aleatoreo:
         print('demasiado alto')
     adivina = int(input('Ingresa el numero'))
 print('Haz ganado!')
+
+# Segundo commit
